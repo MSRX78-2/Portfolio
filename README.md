@@ -141,11 +141,13 @@ Many of my projects explore:
 
 #### Project Audio
 
-<audio src="FUYU_WANG_EM_PROJECT_5.1.wav" controls width="100%" style="max-width:650px;"></audio>
+<a href="FUYU_WANG_EM_PROJECT_5.1.wav" ></a>
 
 #### ⬇️ Download
 
+<div align="left">
 <a href="FUYU_WANG_EM_PROJECT_5.1.wav" download>Download Audio File</a>
+</div>
 
 ---
 

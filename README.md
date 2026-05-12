@@ -144,7 +144,7 @@ Many of my projects explore:
 
 #### ⬇️ Download
 
-<a href="TRIANGLE_VS_CIRCLE_FUYU_WANG.zip" download>Download Full Audio</a>
+<a href="TRIANGLE_VS_CIRCLE_FUYU_WANG.zip" download>Download Audio File</a>
 ---
 
 ## Current Interests

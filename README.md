@@ -220,7 +220,7 @@ Each repository includes:
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="https://wfy523969382@gmail.com">wfy523969382@gmail.com</a></td>
+      <td><a href="mailto:wfy523969382@gmail.com">wfy523969382@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
@@ -236,7 +236,7 @@ Each repository includes:
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://youtube.com/channel/UCD8NooO-FWFami5GnYooyFQ?si=eCeMjjseD5xURfXO">Watch my on YouTube</a></td>
+      <td><a href="https://youtube.com/channel/UCD8NooO-FWFami5GnYooyFQ?si=eCeMjjseD5xURfXO">Watch me on YouTube</a></td>
     </tr>
   </tbody>
 </table>

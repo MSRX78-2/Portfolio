@@ -1,6 +1,6 @@
-## About Me
+# About Me
 
-# Creative Technologist · Music Technology Artist · Interactive Media Designer
+## Creative Technologist · Music Technology Artist · Interactive Media Designer
 
 Hello! I'm Fuyu Wang, a Music Technology student at California Institute of the Arts (CalArts).
 
@@ -20,9 +20,9 @@ I am interested in building immersive audiovisual experiences that connect sound
 
 ---
 
-# What I Made
+## What I Made
 
-## Interactive Visual Systems
+### Interactive Visual Systems
 
 I create generative and reactive visual systems using:
 
@@ -43,7 +43,7 @@ These projects often involve:
 
 ---
 
-## Sound Design & Audio Technology
+### Sound Design & Audio Technology
 
 I work with:
 
@@ -65,7 +65,7 @@ My sound work includes:
 
 ---
 
-## Creative Research
+### Creative Research
 
 Many of my projects explore:
 
@@ -78,11 +78,11 @@ Many of my projects explore:
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 This portfolio primarily highlights my OpenFrameworks (C++) coursework and creative coding projects. These works combine gameplay systems, generative visuals, sound interaction, and experimental audiovisual design.
 
-## Interactive Audiovisual Game System
+### Interactive Audiovisual Game System
 
 An experimental OpenFrameworks project combining player interaction, particle systems, dynamic movement, and real-time audiovisual feedback.
 
@@ -178,7 +178,7 @@ A small experimental game built with OpenFrameworks featuring:
 
 ---
 
-# Current Interests
+## Current Interests
 
 - Interactive installations
 - Generative visuals
@@ -191,9 +191,9 @@ A small experimental game built with OpenFrameworks featuring:
 
 ---
 
-# Tools & Technologies
+## Tools & Technologies
 
-## Visual
+### Visual
 
 - TouchDesigner
 - GLSL
@@ -202,7 +202,7 @@ A small experimental game built with OpenFrameworks featuring:
 - Adobe Premiere Pro
 - Photoshop
 
-## Audio
+### Audio
 
 - Pro Tools
 - Ableton Live
@@ -211,7 +211,7 @@ A small experimental game built with OpenFrameworks featuring:
 - ChucK
 - iZotope RX
 
-## Programming
+### Programming
 
 - C++
 - Python
@@ -220,7 +220,7 @@ A small experimental game built with OpenFrameworks featuring:
 
 ---
 
-# Course Projects
+## Course Projects
 
 This portfolio includes OpenFrameworks coursework, creative coding experiments, and audiovisual interactive systems developed throughout the semester.
 
@@ -272,7 +272,7 @@ Each repository includes:
 
 ---
 
-# Portfolio Philosophy
+## Portfolio Philosophy
 
 I see technology not only as a tool, but also as a medium for memory, emotion, and experimentation.
 

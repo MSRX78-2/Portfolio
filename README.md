@@ -1,5 +1,3 @@
-
-
 # About Me
 
 ## Creative Technologist · Music Technology Artist · Interactive Media Designer
@@ -103,7 +101,7 @@ Many of my projects explore:
 
 <a href="SIMPLE_UNIVERSE_SIMULATOR_FUYU_WANG.zip" download>Download Full Project ZIP</a>
 
-------
+---
 
 ### Triangle vs Circle Game
 
@@ -126,6 +124,27 @@ Many of my projects explore:
 
 <a href="TRIANGLE_VS_CIRCLE_FUYU_WANG.zip" download>Download Full Project ZIP</a>
 
+---
+### EM Sound space design
+
+#### Features
+
+- Procedural enemy spawning
+- Expanding arc projectiles
+- Real-time gameplay systems
+
+#### Tools Used
+
+- C++
+- OpenFrameworks
+
+#### Project Video
+
+<video src="TVSC.mov" controls width="100%" style="max-width:650px;"></video>
+
+#### ⬇️ Download
+
+<a href="TRIANGLE_VS_CIRCLE_FUYU_WANG.zip" download>Download Full Audio</a>
 ---
 
 ## Current Interests

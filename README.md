@@ -95,7 +95,7 @@ Many of my projects explore:
 
 #### Project Demo
 
-<video src="TVSC.mov" controls width = 500></video>
+<video src="TVSC.mov" controls width="100%" style="max-width:650px;"></video>
 
 #### ⬇️ Download
 

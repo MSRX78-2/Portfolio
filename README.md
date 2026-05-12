@@ -14,13 +14,28 @@ My work combines:
 - GLSL shaders
 - Game art & experimental visuals
 - Audio technology
-- Human Center AI-assisted workflows
+- Human-centered AI-assisted workflows
 
 I am interested in building immersive audiovisual experiences that connect sound, visuals, space, memory, and identity.
 
 ---
 
-## What I Made
+## Creative Practice
+
+My work explores the relationship between sound, visuals, interaction, memory, and computational systems through experimental media and creative technology.
+
+I am interested in building immersive audiovisual experiences that combine:
+
+- Generative systems
+- Real-time interaction
+- Spatial sound
+- Computational visuals
+- Experimental gameplay
+- Audiovisual storytelling
+
+Many of my projects investigate themes of perception, identity, language, virtual space, and digital memory through both technical development and artistic experimentation.
+
+---
 
 ### Interactive Visual Systems
 
@@ -32,14 +47,7 @@ I create generative and reactive visual systems using:
 - OpenFrameworks
 - p5.js
 
-These projects often involve:
-
-- Particle systems
-- Audio-reactive visuals
-- Fluid simulations
-- Noise fields
-- Real-time interaction
-- Projection-based environments
+My visual work often involves particle systems, audio-reactive environments, procedural animation, fluid motion, and projection-based interaction.
 
 ---
 
@@ -54,14 +62,7 @@ I work with:
 - ChucK
 - iZotope RX
 
-My sound work includes:
-
-- Game sound design
-- Foley
-- Experimental composition
-- Spatial sound
-- Interactive audio systems
-- Audio restoration and manipulation
+My sound practice includes game audio, foley, experimental composition, spatial sound, interactive audio systems, and environmental sound design.
 
 ---
 
@@ -71,16 +72,17 @@ Many of my projects explore:
 
 - Cultural memory
 - Language loss
-- Identity and migration
+- Identity
 - Urban soundscapes
 - Ecology and technology
 - Virtual cities and digital nostalgia
-
 ---
 
 ## Projects
 
 ### Simple Universe Simulator
+
+  An experimental OpenFrameworks particle simulation exploring procedural motion, geometry, and interactive visual behavior.
 
 #### Features
 
@@ -92,6 +94,10 @@ Many of my projects explore:
 
 - C++
 - OpenFrameworks
+
+#### How to Run
+
+- Open the project in OpenFrameworks and run it through Xcode or VSCode.
 
 #### Project Video
 
@@ -107,6 +113,8 @@ Many of my projects explore:
 
 ### Triangle vs Circle Game
 
+  A fast-paced experimental arcade game built with OpenFrameworks featuring dynamic enemy systems and expanding projectile mechanics.
+
 #### Features
 
 - Procedural enemy spawning
@@ -117,6 +125,10 @@ Many of my projects explore:
 
 - C++
 - OpenFrameworks
+
+#### How to Run
+
+- Open the project in OpenFrameworks and run it through Xcode or VSCode.
 
 #### Project Video
 
@@ -129,6 +141,8 @@ Many of my projects explore:
 ---
 ### EM Sound Space Design
 
+  An immersive environmental sound design project focused on spatial atmosphere, sonic texture, and reconstructed audiovisual environments.
+
 #### Features
 
 - Experimental sound design
@@ -137,11 +151,15 @@ Many of my projects explore:
 
 #### Tools Used
 
-- Protools
+- ProTools
 - iZotope RX11
 - WarThunder
 
-#### Project Audio Stero Only
+#### How to Experience
+
+- Use headphones or surround speakers for the intended spatial audio experience.
+
+#### Project Audio (Stereo Only)
 
 <audio controls style="width:100%; max-width:650px;">
   <source src="FUYU_WANG_EM_PROJECT.mp3" type="audio/mpeg">
@@ -197,27 +215,6 @@ Many of my projects explore:
 
 ---
 
-## Course Projects
-
-This portfolio includes OpenFrameworks coursework, creative coding experiments, and audiovisual interactive systems developed throughout the semester.
-
-- Interactive OpenFrameworks systems
-- Generative visual experiments
-- Audio-reactive environments
-- Experimental game prototypes
-- Shader and particle simulations
-- Audiovisual interaction design
-
-Each repository includes:
-
-- Project descriptions
-- Screenshots/videos
-- Tools and libraries used
-- Instructions for running the project
-- Source code and documentation
-
----
-
 ## CONTACT DETAILS
 
 *Let’s connect and explore creative technology, audiovisual systems, and interactive media together.*
@@ -238,7 +235,7 @@ Each repository includes:
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://fuyu-wang.com">The things I did before</a></td>
+      <td><a href="https://fuyu-wang.com">Personal Website</a></td>
     </tr>
     <tr>
       <td>📺</td>

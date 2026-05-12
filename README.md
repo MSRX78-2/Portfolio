@@ -141,9 +141,15 @@ Many of my projects explore:
 - iZotope RX11
 - WarThunder
 
+#### Project Audio Stero Only
+
+<audio controls style="width:100%; max-width:650px;">
+  <source src="FUYU_WANG_EM_PROJECT.mp3" type="audio/mpeg">
+</audio>
+
 #### ⬇️ Download
 
-<a href="FUYU_WANG_EM_PROJECT_5.1.wav" download>Download Audio File</a>
+<a href="FUYU_WANG_EM_PROJECT_5.1.wav" download>Download 5.1 Audio File</a>
 
 ---
 

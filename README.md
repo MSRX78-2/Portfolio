@@ -80,10 +80,7 @@ Many of my projects explore:
 
 ## Projects
 
----
-
----
-
+--
 ### Triangle vs Circle Game Prototype
 
 #### Features

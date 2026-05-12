@@ -143,7 +143,7 @@ Many of my projects explore:
 
 <div align="left">
 <a href="FUYU_WANG_EM_PROJECT_5.1.wav" >🎧 Listen to Audio</a>
-<div align="left">
+</div>
 
 #### ⬇️ Download
 

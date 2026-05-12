@@ -69,7 +69,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
     <tr>
       <td>🌐</td>
-      <td><a href="https://fuyu-wang.com">The things I do daily on LinkedIn</a></td>
+      <td><a href="https://fuyu-wang.com">The things I did before</a></td>
     </tr>
     <tr>
       <td>📺</td>
@@ -77,5 +77,3 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
     </tr>
   </tbody>
 </table>
-
-

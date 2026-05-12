@@ -93,11 +93,12 @@ Many of my projects explore:
 - C++
 - OpenFrameworks
 
-#### Project Demo
+#### Project Video
 
 <video src="TVSC.mov" controls width="100%" style="max-width:650px;"></video>
 
 #### ⬇️ Download
+
 
 
 ---

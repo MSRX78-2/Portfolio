@@ -95,7 +95,9 @@ Many of my projects explore:
 
 #### Project Video
 
-<video src = "SIMPLE_UNIVERSE_SIMULATOR_FUYU_WANG.mov" controls width = "100%" style = "max-width:650px;"></video>
+<video controls width="100%" style="max-width:650px;">
+  <source src="SIMPLE_UNIVERSE_SIMULATOR_FUYU_WANG.mp4" type="video/mp4">
+</video>
 
 #### ⬇️ Download
 

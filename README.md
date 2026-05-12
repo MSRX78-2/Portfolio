@@ -1,79 +1,315 @@
-<!--Section 1: Introduce your self-->
-## ABOUT ME
+## About Me
 
-Hello! I'm Fuyu Wang 🤓, a data analyst, educator, and consultant with a passion for turning data into actionable insights. With experience across sales, operations, finance, and customer service, I help businesses solve challenges and unlock growth.
+# Creative Technologist · Music Technology Artist · Interactive Media Designer
 
+Hello! I'm Fuyu Wang, a Music Technology student at California Institute of the Arts (CalArts).
 
-<!--Mention your top/relevant skills here - core and soft skills-->
-## WHAT I DO
+My work combines:
 
-*As the Chief Analyst of SkillAhead Solutions Ltd, I provide consulting and training services for businesses and mentor aspiring analysts.*
+- Interactive media
+- Sound design
+- Creative coding
+- TouchDesigner
+- Max/MSP
+- GLSL shaders
+- Game art & experimental visuals
+- Audio technology
+- Human Center AI-assisted workflows
 
-**- ✅ Data Analytics Consulting.**
-I provide in-depth analysis and tailored solutions to help you make data-driven decisions, optimize processes, and drive business growth. 
+I am interested in building immersive audiovisual experiences that connect sound, visuals, space, memory, and identity.
 
-**- ✅ Staff Training & Development.**
-I offer comprehensive training programs in data analysis, visualization, and data-driven decision-making. From beginner to advanced levels. 
+---
 
+# What I Made
 
-<!--Section 2: List 3-4 key projects-->
-## MY PORTFOLIO 
+## Interactive Visual Systems
 
-*A glimpse of some of the projects I've been working on.*
+I create generative and reactive visual systems using:
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
-![image](1 anietie etuk data analytics car project.jpeg)
+- TouchDesigner
+- GLSL
+- Python
+- OpenFrameworks
+- p5.js
 
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
+These projects often involve:
 
+- Particle systems
+- Audio-reactive visuals
+- Fluid simulations
+- Noise fields
+- Real-time interaction
+- Projection-based environments
 
-[Read More]()
+---
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+## Sound Design & Audio Technology
 
-![image](2 anietie etuk data analytics sales project.jpg)
+I work with:
 
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg. 
+- Pro Tools
+- Ableton Live
+- Logic Pro
+- Max/MSP
+- ChucK
+- iZotope RX
 
-[Read More]()
+My sound work includes:
 
-**Predictive Modeling and Hypothesis Testing using Titanic Dataset.**
+- Game sound design
+- Foley
+- Experimental composition
+- Spatial sound
+- Interactive audio systems
+- Audio restoration and manipulation
 
-![image](3 anietie etuk data analytics agro project.jpg)
+---
 
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew. 
+## Creative Research
 
-<a href="17 How to Present Data to Executives by Anietie Etuk.pdf">Download the Report here (pdf file)</a>
+Many of my projects explore:
 
+- Cultural memory
+- Language loss
+- Identity and migration
+- Urban soundscapes
+- Ecology and technology
+- Virtual cities and digital nostalgia
+
+---
+
+# Featured Projects
+
+This portfolio primarily highlights my OpenFrameworks (C++) coursework and creative coding projects. These works combine gameplay systems, generative visuals, sound interaction, and experimental audiovisual design.
+
+## Interactive Audiovisual Game System
+
+An experimental OpenFrameworks project combining player interaction, particle systems, dynamic movement, and real-time audiovisual feedback.
+
+### Features
+
+- Real-time player movement
+- Interactive combat systems
+- Procedural visual effects
+- Audio-reactive feedback
+- Experimental gameplay mechanics
+
+### Tools Used
+
+- C++
+- OpenFrameworks
+- GLSL
+- Visual Studio Code
+
+### Project Demo
+
+[Insert Gameplay Video / GIF Here]
+
+![Project Screenshot](insert-image-here.png)
+
+---
+
+## Audio Reactive Particle Environment
+
+A real-time particle simulation system created with OpenFrameworks and GLSL shaders. The project explores the relationship between sound, motion, and procedural visual behavior.
+
+### Features
+
+- Particle flow systems
+- Audio-reactive animation
+- Noise field movement
+- Real-time rendering
+- Shader-based visuals
+
+### Tools Used
+
+- C++
+- OpenFrameworks
+- GLSL
+- TouchDesigner
+
+### Project Demo
+
+[Insert Demo Video / GIF Here]
+
+![Project Screenshot](insert-image-here.png)
+
+---
+
+## Experimental Visual & Sound Research
+
+A creative coding research project exploring immersive visual systems, spatial sound, and generative interaction.
+
+### Features
+
+- Experimental visual composition
+- Real-time interaction
+- Spatial audiovisual design
+- Immersive environment concepts
+
+### Tools Used
+
+- TouchDesigner
+- GLSL
+- Pro Tools
+- Max/MSP
+
+### Project Demo
+
+[Insert Demo Video / GIF Here]
+
+![Project Screenshot](insert-image-here.png)
+
+---
+
+## Triangle vs Circle Game Prototype
+
+A small experimental game built with OpenFrameworks featuring:
+
+- Procedural enemy spawning
+- Expanding arc projectiles
+- Particle effects
+- Real-time gameplay systems
+
+**Tools Used:**
+
+- C++
+- OpenFrameworks
+
+---
+
+# Current Interests
+
+- Interactive installations
+- Generative visuals
+- Sound art
+- Creative AI
+- Experimental game design
+- Audiovisual performance
+- Real-time systems
+- Immersive media
+
+---
+
+# Tools & Technologies
+
+## Visual
+
+- TouchDesigner
+- GLSL
+- OpenFrameworks
+- p5.js
+- Adobe Premiere Pro
+- Photoshop
+
+## Audio
+
+- Pro Tools
+- Ableton Live
+- Logic Pro
+- Max/MSP
+- ChucK
+- iZotope RX
+
+## Programming
+
+- C++
+- Python
+- JavaScript
+- HTML/CSS
+
+---
+
+# Course Projects
+
+This portfolio includes OpenFrameworks coursework, creative coding experiments, and audiovisual interactive systems developed throughout the semester.
+
+- Interactive OpenFrameworks systems
+- Generative visual experiments
+- Audio-reactive environments
+- Experimental game prototypes
+- Shader and particle simulations
+- Audiovisual interaction design
+
+Each repository includes:
+
+- Project descriptions
+- Screenshots/videos
+- Tools and libraries used
+- Instructions for running the project
+- Source code and documentation
+
+---
 
 ## CONTACT DETAILS
 
-*Let’s connect and see how we can make a difference together!*
+*Let’s connect and explore creative technology, audiovisual systems, and interactive media together.*
+
 <table>
+
   <tbody>
+
     <tr>
+
       <td>📧</td>
+
       <td><a href="https://wfy523969382@gmail.com">wfy523969382@gmail.com</a></td>
+
     </tr>
+
     <tr>
+
       <td>📞</td>
+
       <td>(661)816-1258</td>
+
     </tr>
+
     <tr>
+
       <td>📍</td>
+
       <td>Beijing, China</td>
+
     </tr>
+
     <tr>
+
       <td>⬇️</td>
+
       <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
+
     </tr>
+
     <tr>
+
       <td>🌐</td>
+
       <td><a href="https://fuyu-wang.com">The things I did before</a></td>
+
     </tr>
+
     <tr>
+
       <td>📺</td>
+
       <td><a href="https://youtube.com/channel/UCD8NooO-FWFami5GnYooyFQ?si=eCeMjjseD5xURfXO">Watch my tutorials on YouTube</a></td>
+
     </tr>
+
   </tbody>
+
 </table>
+
+---
+
+# Portfolio Philosophy
+
+I see technology not only as a tool, but also as a medium for memory, emotion, and experimentation.
+
+My goal is to create works that exist somewhere between:
+
+- sound and image
+- code and performance
+- virtual and physical space
+- systems and storytelling

@@ -82,7 +82,28 @@ Many of my projects explore:
 
 ## Projects
 
-### Triangle vs Circle Game Prototype
+### Simple Universe Simulator
+
+#### Features
+
+- Procedural enemy spawning
+- Expanding arc projectiles
+- Real-time gameplay systems
+
+#### Tools Used
+
+- C++
+- OpenFrameworks
+
+#### Project Video
+
+<video src = "SIMPLE_UNIVERSE_SIMULATOR_FUYU_WANG.mov" controls width = "100%" style = "max-width:650px;"></video>
+
+#### ⬇️ Download
+
+<a href="" download>Download Full Project ZIP</a>
+
+### Triangle vs Circle Game
 
 #### Features
 

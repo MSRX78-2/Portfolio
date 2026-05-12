@@ -246,59 +246,28 @@ Each repository includes:
 *Let’s connect and explore creative technology, audiovisual systems, and interactive media together.*
 
 <table>
-
   <tbody>
-
     <tr>
-
       <td>📧</td>
-
       <td><a href="https://wfy523969382@gmail.com">wfy523969382@gmail.com</a></td>
-
     </tr>
-
     <tr>
-
       <td>📞</td>
-
       <td>(661)816-1258</td>
-
     </tr>
-
     <tr>
-
       <td>📍</td>
-
-      <td>Beijing, China</td>
-
+      <td>Beijing, China/ California, USA</td>
     </tr>
-
     <tr>
-
-      <td>⬇️</td>
-
-      <td><a href="https://etuk123456.github.io/portfolio1/docs/Profile.pdf">Download my CV</a></td>
-
-    </tr>
-
-    <tr>
-
       <td>🌐</td>
-
       <td><a href="https://fuyu-wang.com">The things I did before</a></td>
-
     </tr>
-
     <tr>
-
       <td>📺</td>
-
       <td><a href="https://youtube.com/channel/UCD8NooO-FWFami5GnYooyFQ?si=eCeMjjseD5xURfXO">Watch my tutorials on YouTube</a></td>
-
     </tr>
-
   </tbody>
-
 </table>
 
 ---

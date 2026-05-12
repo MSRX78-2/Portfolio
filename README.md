@@ -95,7 +95,10 @@ Many of my projects explore:
 
 #### Project Demo
 
-<video src="TVSC.mov" controls></video>
+<video src="TVSC.mov" controls width = "900"></video>
+
+#### ⬇️ Download
+
 
 ---
 

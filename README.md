@@ -78,7 +78,7 @@ Many of my projects explore:
 
 ---
 
-## Featured Projects
+## Projects
 
 This portfolio primarily highlights my OpenFrameworks (C++) coursework and creative coding projects. These works combine gameplay systems, generative visuals, sound interaction, and experimental audiovisual design.
 
@@ -86,7 +86,7 @@ This portfolio primarily highlights my OpenFrameworks (C++) coursework and creat
 
 An experimental OpenFrameworks project combining player interaction, particle systems, dynamic movement, and real-time audiovisual feedback.
 
-### Features
+#### Features
 
 - Real-time player movement
 - Interactive combat systems
@@ -94,14 +94,14 @@ An experimental OpenFrameworks project combining player interaction, particle sy
 - Audio-reactive feedback
 - Experimental gameplay mechanics
 
-### Tools Used
+#### Tools Used
 
 - C++
 - OpenFrameworks
 - GLSL
 - Visual Studio Code
 
-### Project Demo
+#### Project Demo
 
 [Insert Gameplay Video / GIF Here]
 
@@ -109,11 +109,11 @@ An experimental OpenFrameworks project combining player interaction, particle sy
 
 ---
 
-## Audio Reactive Particle Environment
+### Audio Reactive Particle Environment
 
 A real-time particle simulation system created with OpenFrameworks and GLSL shaders. The project explores the relationship between sound, motion, and procedural visual behavior.
 
-### Features
+#### Features
 
 - Particle flow systems
 - Audio-reactive animation
@@ -121,14 +121,14 @@ A real-time particle simulation system created with OpenFrameworks and GLSL shad
 - Real-time rendering
 - Shader-based visuals
 
-### Tools Used
+#### Tools Used
 
 - C++
 - OpenFrameworks
 - GLSL
 - TouchDesigner
 
-### Project Demo
+#### Project Demo
 
 [Insert Demo Video / GIF Here]
 
@@ -136,25 +136,25 @@ A real-time particle simulation system created with OpenFrameworks and GLSL shad
 
 ---
 
-## Experimental Visual & Sound Research
+### Experimental Visual & Sound Research
 
 A creative coding research project exploring immersive visual systems, spatial sound, and generative interaction.
 
-### Features
+#### Features
 
 - Experimental visual composition
 - Real-time interaction
 - Spatial audiovisual design
 - Immersive environment concepts
 
-### Tools Used
+#### Tools Used
 
 - TouchDesigner
 - GLSL
 - Pro Tools
 - Max/MSP
 
-### Project Demo
+#### Project Demo
 
 [Insert Demo Video / GIF Here]
 
@@ -162,19 +162,25 @@ A creative coding research project exploring immersive visual systems, spatial s
 
 ---
 
-## Triangle vs Circle Game Prototype
+### Triangle vs Circle Game Prototype
 
-A small experimental game built with OpenFrameworks featuring:
+#### Features
 
 - Procedural enemy spawning
 - Expanding arc projectiles
 - Particle effects
 - Real-time gameplay systems
 
-**Tools Used:**
+#### Tools Used
 
 - C++
 - OpenFrameworks
+
+#### Project Demo
+
+[Insert Demo Video / GIF Here]
+
+![Project Screenshot](insert-image-here.png)
 
 ---
 
@@ -183,7 +189,7 @@ A small experimental game built with OpenFrameworks featuring:
 - Interactive installations
 - Generative visuals
 - Sound art
-- Creative AI
+- Human Center Creative AI
 - Experimental game design
 - Audiovisual performance
 - Real-time systems
@@ -265,7 +271,7 @@ Each repository includes:
     </tr>
     <tr>
       <td>📺</td>
-      <td><a href="https://youtube.com/channel/UCD8NooO-FWFami5GnYooyFQ?si=eCeMjjseD5xURfXO">Watch my tutorials on YouTube</a></td>
+      <td><a href="https://youtube.com/channel/UCD8NooO-FWFami5GnYooyFQ?si=eCeMjjseD5xURfXO">Watch my on YouTube</a></td>
     </tr>
   </tbody>
 </table>

@@ -84,9 +84,9 @@ Many of my projects explore:
 
 #### Features
 
-- Procedural enemy spawning
-- Expanding arc projectiles
-- Real-time gameplay systems
+- Real-time particle simulation
+- Interactive geometric systems
+- Procedural motion behavior
 
 #### Tools Used
 
@@ -125,20 +125,20 @@ Many of my projects explore:
 <a href="TRIANGLE_VS_CIRCLE_FUYU_WANG.zip" download>Download Full Project ZIP</a>
 
 ---
-### EM Sound space design
+### EM Sound Space Design
 
 #### Features
 
-- Procedural enemy spawning
-- Expanding arc projectiles
-- Real-time gameplay systems
+- Experimental sound design
+- Spatial audio composition
+- Immersive environmental audio
 
 #### Tools Used
 
-- C++
-- OpenFrameworks
+- Protools
+- iZotope RX11
 
-#### Project Video
+#### Project Audio
 
 <video src="TVSC.mov" controls width="100%" style="max-width:650px;"></video>
 

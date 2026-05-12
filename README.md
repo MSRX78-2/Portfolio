@@ -141,11 +141,12 @@ Many of my projects explore:
 
 #### Project Audio
 
-<video src="TVSC.mov" controls width="100%" style="max-width:650px;"></video>
+<audio src="FUYU_WANG_EM_PROJECT_5.1.wav" controls width="100%" style="max-width:650px;"></audio>
 
 #### ⬇️ Download
 
-<a href="TRIANGLE_VS_CIRCLE_FUYU_WANG.zip" download>Download Audio File</a>
+<a href="FUYU_WANG_EM_PROJECT_5.1.wav" download>Download Audio File</a>
+
 ---
 
 ## Current Interests

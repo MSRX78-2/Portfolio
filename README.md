@@ -76,6 +76,7 @@ Many of my projects explore:
 - Urban soundscapes
 - Ecology and technology
 - Virtual cities and digital nostalgia
+
 ---
 
 ## Projects

@@ -95,7 +95,7 @@ Many of my projects explore:
 
 #### Project Demo
 
-TVSC.mov
+<video src="TVSC.mov" controls></video>
 
 ---
 

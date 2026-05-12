@@ -86,7 +86,6 @@ Many of my projects explore:
 
 - Procedural enemy spawning
 - Expanding arc projectiles
-- Particle effects
 - Real-time gameplay systems
 
 #### Tools Used
@@ -141,6 +140,8 @@ Many of my projects explore:
 - Python
 - JavaScript
 - HTML/CSS
+- Max/MSP
+- ChucK
 
 ---
 

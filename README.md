@@ -95,9 +95,7 @@ Many of my projects explore:
 
 #### Project Demo
 
-[Insert Demo Video / GIF Here]
-
-![Project Screenshot](insert-image-here.png)
+TVSC.mov
 
 ---
 

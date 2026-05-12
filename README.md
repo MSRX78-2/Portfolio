@@ -53,7 +53,7 @@ Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting 
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="https://fuyu-wang.com">wfy523969382@gmail.com</a></td>
+      <td><a href="wfy523969382@gmail.com">wfy523969382@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>

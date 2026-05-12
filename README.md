@@ -137,6 +137,7 @@ Many of my projects explore:
 
 - Protools
 - iZotope RX11
+- WarThunder
 
 #### Project Audio
 

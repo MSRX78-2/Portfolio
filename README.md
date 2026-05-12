@@ -139,10 +139,6 @@ Many of my projects explore:
 - iZotope RX11
 - WarThunder
 
-#### Project Audio
-
-<a href="FUYU_WANG_EM_PROJECT_5.1.wav" >🎧 Listen to Audio</a>
-
 #### ⬇️ Download
 
 <a href="FUYU_WANG_EM_PROJECT_5.1.wav" download>Download Audio File</a>
